@@ -1,4 +1,9 @@
-CyanogenMod
+CyanogenMod for Galaxy S series devices
+Galaxy S Contributors:
+@WesGarner - Vibrant
+@noobnl_epic - Epic
+@atinm - Captivate
+@TheDudesAndroid - Vibrant
 ===========
 
 Submitting Patches
