@@ -4,6 +4,7 @@ Galaxy S Contributors:
 @noobnl_epic - Epic
 @atinm - Captivate
 @TheDudesAndroid - Vibrant
+
 ===========
 
 Submitting Patches
