@@ -81,6 +81,7 @@
   <project path="external/gtest" name="platform/external/gtest" />
   <project path="external/guava" name="platform/external/guava" />
   <project path="external/icu4c" name="platform/external/icu4c" />
+  <project path="external/initramfs-utils" name="atinm/initramfs-utils" revision="master" remote="github" />
   <project path="external/iproute2" name="platform/external/iproute2" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" revision="master" remote="github" />
