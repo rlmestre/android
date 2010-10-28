@@ -17,7 +17,7 @@ Submitting Patches
 Patches are always welcome!  Please send pull requests with your patches!  If at all possible please rebase your
 repository before sending a pull request.  You can do this by using the following command:
 
-    git pull --rebase git://github.com/wesgarner/path_to_project.git froyo
+    git pull --rebase git://github.com/cmsgs/path_to_project.git froyo
 
 This makes accepting patches MUCH easier for our comitters.
 
@@ -27,9 +27,9 @@ Getting Started
 To get started with Android/CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the CyanogenMod(GalaxyS - Wes Garner) trees, use a command like this:
+To initialize your local repository using the CyanogenMod(cmsgs) trees, use a command like this:
 
-    repo init -u git://github.com/wesgarner/android.git -b froyo
+    repo init -u git://github.com/cmsgs/android.git -b froyo
 
 Then to sync up:
 
