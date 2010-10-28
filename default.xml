@@ -7,7 +7,7 @@
   <default revision="froyo"
            remote="korg" />
 
-  <project path="build" name="CyanogenMod/android_build" remote="github">
+  <project path="build" name="atinm/android_build" remote="github" revision="froyo">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
