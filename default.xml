@@ -42,6 +42,7 @@
   <project path="device/samsung/vibrant" name="cmsgs/android_device_samsung_vibrant" remote="github" />
   <project path="device/samsung/epic" name="cmsgs/android_device_samsung_epic" remote="github" />
   <project path="device/yuhua/x2" name="CyanogenMod/android_device_yuhua_x2" remote="github" />
+  <project path="device/samsung/fascinate" name="cmsgs/android_device_samsung_fascinate" remote="github" />
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="master" />
@@ -222,5 +223,5 @@
   <project path="vendor/cyanogen" name="cmsgs/android_vendor_cyanogen" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" />
-
+  <project path="vendor/samsung/fascinate" name="cmsgs/android_vendor_samsung_fascinate" remote="github" />
 </manifest>
