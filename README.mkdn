@@ -10,6 +10,10 @@ Galaxy S Contributors:
 
 @TheDudesAndroid - Vibrant
 
+Pedlar - Fascinate
+
+@codeworkx - GT-i9000
+
 ===========
 
 Submitting Patches
