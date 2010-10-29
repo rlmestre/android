@@ -223,5 +223,4 @@
   <project path="vendor/cyanogen" name="cmsgs/android_vendor_cyanogen" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" />
-  <project path="vendor/samsung/fascinate" name="cmsgs/android_vendor_samsung_fascinate" remote="github" />
 </manifest>
