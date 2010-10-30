@@ -219,10 +219,11 @@
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" />
   <project path="system/core" name="cmsgs/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
-  <project path="system/initramfs" name="cmsgs/galaxys-cyanogenmod-initramfs" remote="github" revision="workbench" />
+  <project path="system/initramfs/experimental" name="cmsgs/galaxys-cyanogenmod-initramfs" remote="github" revision="workbench" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
+  <project path="system/initramfs/epic" name="cmsgs/galaxys-cyanogenmod-initramfs" remote="github" revision="epic" />
 
   <project path="vendor/cyanogen" name="cmsgs/android_vendor_cyanogen" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
