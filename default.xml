@@ -46,10 +46,10 @@
   <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" remote="github" revision="master" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/samsung/captivate" name="cmsgs/android_device_samsung_captivate" remote="github" revision="master" />
-  <project path="device/samsung/fascinate" name="cmsgs/android_device_samsung_fascinate" remote="github" />
+  <project path="device/samsung/fascinate" name="cmsgs/android_device_samsung_fascinate" remote="github" revision="froyo" />
   <project path="device/samsung/galaxys" name="cmsgs/android_device_samsung_galaxys" remote="github" revision="master" />
-  <project path="device/samsung/vibrant" name="cmsgs/android_device_samsung_vibrant" remote="github" />
-  <project path="device/samsung/epic" name="cmsgs/android_device_samsung_epic" remote="github" />
+  <project path="device/samsung/vibrant" name="cmsgs/android_device_samsung_vibrant" remote="github" revision="froyo"/>
+  <project path="device/samsung/epic" name="cmsgs/android_device_samsung_epic" remote="github" revision="froyo"/>
   <project path="device/yuhua/x2" name="CyanogenMod/android_device_yuhua_x2" remote="github" />
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
