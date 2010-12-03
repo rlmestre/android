@@ -234,14 +234,8 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
-<<<<<<< HEAD
   <project path="vendor/cyanogen" name="cmsgs/android_vendor_cyanogen" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" />
-=======
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
-
-  <project path="android" name="CyanogenMod/android" remote="github" />
-
->>>>>>> c1761d57ed7c0527060f26b5ee77e15bd07ebf12
+  <project path="android" name="cmsgs/android" remote="github" />
 </manifest>
