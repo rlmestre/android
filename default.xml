@@ -125,7 +125,7 @@
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/rsync" name="dylex/android_external_rsync" remote="github" revision="master" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="coolya/android_external_skia" remote="github" />
+  <project path="external/skia" name="cmsgs/android_external_skia" remote="github" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -163,6 +163,7 @@
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
+  <project path="hardware/gps/nmea" name="cmsgs/android_system_hardware_gps_nmea" remote="github" revision="master" />
 
   <project path="kernel-msm" name="CyanogenMod/cm-kernel" remote="github" revision="android-msm-2.6.35-unified" />
 
