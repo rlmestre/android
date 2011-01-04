@@ -202,7 +202,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
-  <project path="vendor/cyanogen" name="cmsgs/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/cyanogen" name="forcystos/android_vendor_cyanogen" remote="github" />
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" />
   <project path="android" name="cmsgs/android" remote="github" />
 </manifest>
