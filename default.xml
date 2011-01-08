@@ -21,10 +21,7 @@
   <project path="development" name="CyanogenMod/android_development" remote="github" />
 
   <project path="device/common" name="device/common" />
-  <project path="device/samsung/captivate" name="cmsgs/android_device_samsung_captivate" remote="github" revision="master" />
-  <project path="device/samsung/fascinate" name="cmsgs/android_device_samsung_fascinate" remote="github" revision="froyo" />
   <project path="device/samsung/galaxys" name="cmsgs/android_device_samsung_galaxys" remote="github" revision="master" />
-  <project path="device/samsung/vibrant" name="cmsgs/android_device_samsung_vibrant" remote="github" revision="froyo"/>
   <project path="device/samsung/epic" name="cmsgs/android_device_samsung_epic" remote="github" revision="froyo"/>
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
